@@ -1,0 +1,12 @@
+.photo{
+    height: 100px;
+    width: 200px;
+    color: aqua;
+    /* background-image: url(https://imgs.search.brave.com/V2NOK7iO5ziplZYf5NDkK5WBZw6IUhhq5sHjyGzTiWc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzQ0LzEwLzQ2/LzM2MF9GXzQ0NDEw/NDY3OV84TFBieDQ3/enZaNEhCWnE3eHht/RkZieEU4azdxUTcx/aS5qcGc); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+
+    border: 1px solid black;
+    border-radius: 50% 50% 10% 50%;
+
+}
